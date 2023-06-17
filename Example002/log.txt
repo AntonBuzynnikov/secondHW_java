@@ -1,0 +1,14 @@
+июн. 15, 2023 7:49:15 AM SecondHW.Example002.Example main
+INFO: Итерация 1, 2 5 7 8 21 5 1 354 
+июн. 15, 2023 7:49:15 AM SecondHW.Example002.Example main
+INFO: Итерация 2, 2 5 7 8 5 1 21 354 
+июн. 15, 2023 7:49:15 AM SecondHW.Example002.Example main
+INFO: Итерация 3, 2 5 7 5 1 8 21 354 
+июн. 15, 2023 7:49:15 AM SecondHW.Example002.Example main
+INFO: Итерация 4, 2 5 5 1 7 8 21 354 
+июн. 15, 2023 7:49:15 AM SecondHW.Example002.Example main
+INFO: Итерация 5, 2 5 1 5 7 8 21 354 
+июн. 15, 2023 7:49:15 AM SecondHW.Example002.Example main
+INFO: Итерация 6, 2 1 5 5 7 8 21 354 
+июн. 15, 2023 7:49:15 AM SecondHW.Example002.Example main
+INFO: Итерация 7, 1 2 5 5 7 8 21 354 
